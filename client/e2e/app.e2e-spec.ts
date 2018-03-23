@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('material-db App', () => {
+describe('client App', () => {
   let page: AppPage;
 
   beforeEach(() => {
